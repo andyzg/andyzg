@@ -2,7 +2,7 @@
 
 I'm Andy. I work as a passionate design engineer on Windsurf and Codeium!
 
-Previously, I built a website builder for an acquired YC startup as the only engineer/designer, was a PM for Uber, designed for Quora and was an early engineer at Figma.
+Previously, I built a website builder for an acquired YC startup as the only engineer/designer, was a PM for Uber, designed for Quora and was an early engineer at Figma. I'm also a proud University of Waterloo alumni.
 
 <!--
 **andyzg/andyzg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
