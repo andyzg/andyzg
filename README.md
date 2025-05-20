@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Andy. I work as a passionate design engineer on Windsurf and Codeium!
+I'm Andy. I work as a passionate design engineer on Windsurf!
 
 Previously, I built a website builder for an acquired YC startup as the only engineer/designer, was a PM for Uber, designed for Quora, was an early engineer at Figma and studied software engineering at University of Waterloo.
 
